@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Alina Zaki! 👋
 
-<!--
-**Alinazaki07/Alinazaki07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 B.Tech CSE Student | First Year
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science Engineering student passionate about technology, programming, and exploring new ideas.
+
+### 💻 About Me
+- 🎓 Currently pursuing B.Tech in Computer Science Engineering.
+- 🌱 Learning programming and software development.
+- 🔍 Exploring new technologies and problem-solving.
+- 🚀 Interested in building creative projects and learning new skills.
+
+### 🛠️ Languages & Tools
+- Python
+- C
+- HTML
+- CSS
+- Git & GitHub
+
+### 🎯 My Goals
+- Strengthen my programming fundamentals.
+- Contribute to interesting projects.
+- Build projects and grow as a developer.
+
+### 🌐 Connect With Me
+- GitHub: [Alina Zaki](https://github.com/YOUR-USERNAME)
+
+---
+
+⭐ *"Learning today, building tomorrow."*
+
+Thanks for visiting my profile! 😊
